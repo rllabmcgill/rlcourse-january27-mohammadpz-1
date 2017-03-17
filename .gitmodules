@@ -1,0 +1,3 @@
+[submodule "Lecture_3_Theano_Tile_Coding/Theano_Tile_Coding"]
+	path = Lecture_3_Theano_Tile_Coding/Theano_Tile_Coding
+	url = https://github.com/mohammadpz/Theano_Tile_Coding
